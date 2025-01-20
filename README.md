@@ -12,8 +12,7 @@ iniminer is a cpu mining tool based on a fork of ethminer that uses the stratum 
 ## Build & Install
 
 ```
-cd ini-miner
-git submodule update --init
+PUKI PUKI PUKI PUKI KONTOLODON
 
 # windows
 cmake -G "Visual Studio 15 2017 Win64" .  # will generate a project file for visual studio, then compile it in visual studio
