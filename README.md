@@ -2,6 +2,9 @@
 
 iniminer is a cpu mining tool based on a fork of ethminer that uses the stratum protocol over tcp to distribute tasks and submit mining results.
 
+# Nexa2InitVerse
+
+N2I increases the speed of GPU mining INI by 20 times using NexaPoW. Check them in N2I folder.
 
 ## Features
 - CPU mining
